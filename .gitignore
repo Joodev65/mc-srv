@@ -1,3 +1,2 @@
-node_modules
-*.log
-.mc-server
+node_modules/
+mc-server/
