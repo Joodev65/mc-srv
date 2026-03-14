@@ -17,7 +17,7 @@
   "author": "Joo",
   "license": "MIT",
   "dependencies": {
-    "@Dimzxzzx07/mc-headless": "latest",
+    "@dimzxzzx07/mc-headless": "latest",
     "axios": "^1.8.4"
   },
   "engines": {

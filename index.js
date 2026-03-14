@@ -1,4 +1,4 @@
-const { MinecraftServer } = require('@Dimzxzzx07/mc-headless');
+const { MinecraftServer } = require('@dimzxzzx07/mc-headless');
 const axios = require('axios');
 const os = require('os');
 
