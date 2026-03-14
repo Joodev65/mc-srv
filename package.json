@@ -1,24 +1,19 @@
 {
   "name": "mc-headless-termux",
   "version": "1.0.0",
-  "description": "Minecraft headless server manager for Termux",
+  "description": "Minecraft headless server ready for Termux",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [
-    "minecraft",
-    "termux",
-    "headless",
-    "server",
-    "paper"
-  ],
+  "keywords": ["minecraft", "headless", "termux", "server", "paper"],
   "author": "Joo",
   "license": "MIT",
   "dependencies": {
     "@dimzxzzx07/mc-headless": "latest",
-    "axios": "^1.8.4"
+    "axios": "^1.8.4",
+    "fs-extra": "^11.1.1"
   },
   "engines": {
     "node": ">=18"
